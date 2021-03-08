@@ -52,14 +52,14 @@ RefundablePostDeliveryCrowdsale
 PupperCoinCrowdsaleDeployer
 In this contract, you will model the deployment based off of the ArcadeTokenCrowdsaleDeployer you built previously. Leverage the OpenZeppelin Crowdsale Documentation for an example of a contract deploying another, as well as the starter code provided in Crowdsale.sol.
 ![image](https://user-images.githubusercontent.com/68974271/110378653-d626a680-8023-11eb-9907-33f1c92c8ae6.png)
-Or look at V1
+Or look at vi1
 ![image](https://user-images.githubusercontent.com/68974271/110378841-17b75180-8024-11eb-8c58-a88a7ad7b9f6.png)
-Or look at V2
+Or look at vi2
 
 Testing the Crowdsale
 Test the crowdsale by sending Ether to the crowdsale from a different account (not the same account that is raising funds)
 ![image](https://user-images.githubusercontent.com/68974271/110378932-34538980-8024-11eb-99ba-20da528fe35b.png)
-Or look at V3
+Or look at vi3
 
 
 
@@ -67,9 +67,9 @@ Or look at V3
 Deploy the crowdsale to the Kovan or Ropsten testnet, and store the deployed address for later. Switch MetaMask to your desired network, and use the Deploy tab in Remix to deploy your contracts. Take note of the total gas cost, and compare it to how costly it would be in reality. Since you are deploying to a network that you don't have control over, faucets will not likely give out 300 test Ether. You can simply reduce the goal when deploying to a testnet to an amount much smaller, like 10,000 wei.
 
 ![image](https://user-images.githubusercontent.com/68974271/110379166-77adf800-8024-11eb-9f44-ce091d846cda.png)
-Or look at V4
+Or look at vi4
 ![image](https://user-images.githubusercontent.com/68974271/110379227-8d232200-8024-11eb-958e-b92040e25beb.png)
-Or look at V5
+Or look at vi5
 
 Submission
 Create a Github repo, and a README.md file explaining the process for purchasing PupperCoin (or whatever name you came up with).
